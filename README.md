@@ -2,4 +2,4 @@
 
 Some exercises to understand various kinds of deep neural networks and how they work.
 
-{{visualization_cnn_activation/README.md}}
+{{./visualization_cnn_activation/README.md}}
