@@ -1,0 +1,3 @@
+# How convolutional networks see the world
+
+In this notebook we visualize the patterns learned by different layers of a convolutional neural network (cnn) to see how cnns understand the images fed to them. Each convolution layer has several filters (neurons) that each learn a certain template. For example, a filter can be used to detect simple templates such as a line or curve or a more complex feature such as an eye. An image containing a similar template when filtered through these filters will maximize the output of that filter. Filters are also referred to as kernels. Some example filters can be seen [here](https://en.wikipedia.org/wiki/Kernel_(image_processing)).
